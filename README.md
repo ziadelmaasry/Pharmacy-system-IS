@@ -1,0 +1,4 @@
+There are Software Requirements Specifications (SRS), Data-Flow Diagram (DFD) and an Entity-Relationship Diagram (ERD) for the Pharmacy System .
+The SRS document provides an overview of the software's objectives, scope, and functional requirements. It serves as a blueprint for the development team to design and implement the Pharmacy System effectively.
+The ERD provides a visual representation of the system's database structure and the relationships between entities. It serves as a crucial tool for understanding the data requirements and designing an efficient and effective database schema for the Pharmacy System.
+The DFD provides a visual representation of the flow of data within the system and the processes involved. It serves as a crucial tool for understanding how information moves through the system and helps in designing an efficient and effective workflow for the Pharmacy System.
